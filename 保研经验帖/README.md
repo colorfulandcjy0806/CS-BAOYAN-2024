@@ -2,6 +2,7 @@
 ## 2023夏令营总结贴
 * @[lllllThree](https://www.zhihu.com/people/lllll-64-58-95)的[2023年（2024届） 计算机保研经历 北航cs 武大cs 自动化所](https://zhuanlan.zhihu.com/p/631358931)
 * @[柚鱼](https://www.zhihu.com/people/no-reason-84-41)的[2024届计算机双非菜鸟保研之旅](https://zhuanlan.zhihu.com/p/658674548)
+* @[雨似浮夸](https://www.zhihu.com/people/yu-si-fu-kua)的[2023年（2024届）计算机保研经验帖｜末2跨专业上岸东南大学PALM｜东南大学CS、北大信工CS、浙软SE、厦大MAC、北师大AI、电科CS……｜一篇非常详细的经验帖，希望能够对大家有帮助！](https://zhuanlan.zhihu.com/p/659869954)
 * @[Lanker](https://www.zhihu.com/people/lanker-44)的[2024届计算机人工智能低rank保研经验](https://zhuanlan.zhihu.com/p/659105884)
 * @[xhyu61](https://www.zhihu.com/people/Xhyukhalt)的[2023（2024届）计算机保研经验分享与思考：211→同济](https://zhuanlan.zhihu.com/p/659074805)
 * @[Fischer](https://www.zhihu.com/people/alexander-18-39)的[2024届计算机跨保推免日寄（ruc信院，xmu信院，tju智算，软件所并行，华科国光/软院）](https://zhuanlan.zhihu.com/p/652601792)
